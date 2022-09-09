@@ -1,0 +1,4 @@
+#Fri Sep 09 18:06:07 WEST 2022
+base.0=C\:\\Users\\elmah\\AndroidStudio\\Projets udemy\\meals_\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
